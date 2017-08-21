@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UdacityFirstApp</string>
+    <string name="about">About</string>
+    <string name="about_text">We are a company specialized in hardware development, PCI layout and assembly of products.</string>
+    <string name="email">Email</string>
+    <string name="email_text">modteceletronica@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="phone_text">+55 11 99999-9999</string>
+    <string name="website">Website</string>
+    <string name="website_text">modteceletronica.wixsite.com/modtec</string>
+    <string name="location">Location</string>
+    <string name="location_text">São Paulo, Brazil</string>
+</resources>
